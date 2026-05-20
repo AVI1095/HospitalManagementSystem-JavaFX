@@ -134,8 +134,8 @@ Password: admin123
 
 ## Author
 **Aditya Vilas Ingle**  
-GitHub: https://github.com/your-username  
-LinkedIn: https://linkedin.com/in/your-profile  
+GitHub: https://github.com/AVI1095  
+LinkedIn: www.linkedin.com/in/aditya-ingle-4907b42b9
 
 ## Project Type
 This project was developed as an **academic + portfolio project** to demonstrate full-stack development using Java.
